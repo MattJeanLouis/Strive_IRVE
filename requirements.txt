@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+stripe
+python-dotenv
+jinja2
